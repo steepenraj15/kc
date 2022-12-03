@@ -1,0 +1,15 @@
+today i have learned about Introduction to Python Programming an d basic of python programming and also some entry level coding
+
+today i have learned about  basic of python programming and also some coding
+
+today i have learned about Python Flow Control and Python Programming Functions.
+
+today i have learned about Python Modules and Libraries.
+
+today i have learned about Python System Administration
+
+today i have learned about Debugging and Testing.
+
+today i have learned about Python DevOps and Continuous Integration.
+
+today i have learned about Python Configuration Management

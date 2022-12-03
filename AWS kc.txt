@@ -1,0 +1,135 @@
+2)
+
+1.  A set of instructions that tells the system how to perform a specific task
+2. It connects all the components
+3. Motherboard & Network card
+4. It can be accessed quickly & It holds data temporarily
+5. 
+
+****************************************************************************************
+
+3)
+1. Web serve
+2. Multiple virtual machines can be run on a single physical computer & Virtual machines can reduce the amount of wasted computing resources from underutilized servers.
+3. Plan & Analyze
+4. MySQL & Oracle
+5. EC2
+
+
+****************************************************************************************
+4)
+1. Project manager & Software developer
+2. Software developer
+3. 
+4. Secure the data & Configure access to the data
+5. 
+
+****************************************************************************************
+
+5)
+1. It delivers information technology (IT) resources on demand
+2. 
+3. 
+4. IAAS
+5. Hybrid
+
+****************************************************************************************
+
+208)
+1. Paying only when computing resources are consumed & Paying for only how much is consumed
+2. 
+3. Increased speed and agility
+4. The time needed to access computing resources is reduced
+5. Users can deploy their solutions in multiple AWS Regions around the world with a few clicks
+
+****************************************************************************************
+
+6)
+1. SAAS
+2. 
+3. Computer & Storage
+4. 
+5. Tutorials and projects
+
+****************************************************************************************
+
+7)
+1. 2 & 4
+2. 1,2,3
+3. 
+4. 1,3,5
+5. 
+
+****************************************************************************************
+
+8)
+1. Scalability
+2. One or more data centers that are built with fault isolation
+3. A geographical area in the world
+4. Two or more
+5. A global content delivery network (CDN) that delivers content to end users with reduced latenc
+
+****************************************************************************************
+
+209)
+1. S3, EFS
+2. IAM
+3. Security, Identity, and Compliance & Compute
+4. EC2
+5. VPC
+
+****************************************************************************************
+
+9)
+1. Security of the cloud
+2. 
+3. 
+4. IAAS
+5. 
+
+****************************************************************************************
+
+10)
+1. Object key
+2. 11 9s
+3. S3 Glacier Deep Archive
+4. 
+5. 
+
+****************************************************************************************
+
+12)
+1. 
+2. 
+3. 
+4. 2,4
+5. Spot Instances
+
+****************************************************************************************
+
+14)
+1. Linux is open source
+2. kernel
+3. A program that provides a service and runs in the background
+4. 
+5. Kernel & Complementary tools and applications
+
+****************************************************************************************
+
+16)
+1. Bash
+2. 
+3. Up arrow
+4. whoami
+5. hostname
+
+****************************************************************************************
+
+18)
+1. 2,3
+2. 4,5
+3. 
+4. usermod
+5. 
+
+****************************************************************************************
